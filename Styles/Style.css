@@ -1,0 +1,91 @@
+ 
+
+body{
+    
+    background-image: url(../Image/fondo.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+    background-color: black;
+    
+    
+    
+}
+.fondo{
+    
+    position:absolute;
+  height: 560px;
+  width:400px;
+  top: 30%;
+  left : 40%;
+  z-index: 2;
+}
+h1{
+    
+    text-align: center;
+    font-size: 95px;
+    
+    font-family: 'Rubik Mono One', sans-serif;
+    
+    
+}
+p{
+    font-size:  22px;
+    text-align: left;
+    background-color: darkgray;
+}
+button{
+    
+    
+  
+   
+    background-color:transparent;
+    border-color: transparent;
+    
+}
+img{
+    display: block;
+    margin: auto;
+    
+    
+}
+a{
+    background-color: black;
+}
+.img2{
+    background-color: rgba(99, 0, 248, 0.1);
+}
+.a2{
+    position:absolute;
+  height: 560px;
+  width:400px;
+  top: 150%;
+  left :25%;
+  z-index: 2;
+    text-align: left;
+    border-color: black;
+    
+}
+.a3{
+    position:absolute;
+    height: 560px;
+    width:400px;
+    top: 5%;
+    left :70%;
+    z-index: 2;
+      text-align: right;
+      
+}
+.a4{
+    position:absolute;
+    height: 560px;
+    width:400px;
+    top: 0%;
+    left :150%;
+    z-index: 2;
+      text-align: right;
+}
+.img4{
+    color: aliceblue;
+    background-color: rgba(255, 255, 255, 0.042);
+    cursor: pointer;
+}

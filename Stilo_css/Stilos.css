@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(253, 253, 253);
+    
+}
+.fondo{
+    
+    position:absolute;
+  height: 560px;
+  width:400px;
+  top: 30%;
+  left : 40%;
+  z-index: 2;
+}
+h1{
+    background-color: orangered;
+    text-align: center;
+    font-size: 95px;
+    
+    font-family: 'Rubik Mono One', sans-serif;
+    
+    
+}
+p{
+    font-size:  22px;
+    text-align: left;
+    background-color: darkgray;
+}
+button{
+    
+    
+  
+   
+    background-color:transparent;
+    border-color: transparent;
+    
+}
+img{
+    display: block;
+    margin: auto;
+}
+.img2{
+    background-color: brown;
+    
+}
+.img1{
+    background-color: brown;
+    border-radius: 40px;
+}
+th{
+    color: aliceblue;
+    background-color:brown;
+    font-size: 25px;
+}
+table{
+    background-color: rgba(43, 43, 43, 0.921);
+}
+td{
+    color: white;
+}
+.pregunta{
+    border-color: orange;
+    border: 10%;
+}
